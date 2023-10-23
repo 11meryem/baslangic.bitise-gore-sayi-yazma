@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button._33.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button._33.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\bin\Debug\button.33.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\bin\Debug\button.33.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\bin\Debug\button.33.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.33\button.33\button.33\obj\Debug\button.33.pdb
